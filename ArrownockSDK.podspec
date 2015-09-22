@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ArrownockSDK"
-  s.version      = "0.0.1"
+  s.version      = "2.23.7"
   s.summary      = "箭扣科技 IM SDK"
 
   s.description  = <<-DESC
@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/myz1104/ArrownockSDK.git", :commit => "d6f0725bcb082f3c7acca422c92efbb8a10f51ab" }
+  s.source       = { :git => "https://github.com/myz1104/ArrownockSDK.git", :tag => "2.23.7" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
